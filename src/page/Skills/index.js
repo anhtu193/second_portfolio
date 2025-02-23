@@ -4,7 +4,7 @@ import SkillMenu from "../../components/SkillMenu";
 function index() {
 	return (
 		<>
-			<Avatar page="about" />
+			<Avatar page="skills" />
 			<SkillMenu />
 		</>
 	);
