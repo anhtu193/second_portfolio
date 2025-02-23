@@ -3,6 +3,8 @@ import About from "./page/About";
 import Contact from "./page/Contacts";
 import Projects from "./page/Projects";
 import Skills from "./page/Skills";
+import "./styles/app.css";
+
 const ProjectRoutes = () => {
 	const routes = [
 		{ path: "/", element: <About /> },

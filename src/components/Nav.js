@@ -4,6 +4,7 @@ import deadEye from "../assets/dead-eye.png";
 import envelope from "../assets/envelope.png";
 import stack from "../assets/stack.png";
 import "../styles/nav.css";
+
 function Nav() {
 	const location = useLocation();
 
