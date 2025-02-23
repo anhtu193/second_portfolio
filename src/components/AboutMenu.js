@@ -5,6 +5,7 @@ import educationIcon from "../assets/upgrade.png";
 import AboutMenuItem from "../components/AboutMenuItem";
 import AboutSubHeading from "../components/AboutSubHeading";
 import subHeadingData from "../data/subHeadingData";
+import "../styles/aboutMenu.css";
 
 class AboutMenu extends Component {
 	constructor(props) {

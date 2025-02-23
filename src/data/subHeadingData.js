@@ -25,10 +25,14 @@ const subHeadingData = {
 			),
 		},
 		{
-			title: "University of Information Technology",
+			title: "University",
 			content: (
 				<>
-					<p>GPA: 8.1</p>
+					<p>
+						University of Information Technology - VNUHCM
+						<br />
+						GPA: 8.1
+					</p>
 				</>
 			),
 		},
