@@ -1,10 +1,17 @@
+import { BrowserRouter as Router } from "react-router-dom";
+import Background from "./components/Background";
 import Nav from "./components/Nav";
+import Routes from "./Routes";
 import "./styles/app.css";
 
 function App() {
 	return (
 		<>
-			<Nav />
+			<Router>
+				<Nav />
+				<Background />
+				<Routes />
+			</Router>
 		</>
 	);
 }

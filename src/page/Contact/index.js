@@ -1,5 +1,5 @@
 function index() {
-	return <div>Contact page</div>;
+	return <div>Contact</div>;
 }
 
 export default index;

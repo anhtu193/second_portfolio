@@ -1,6 +1,6 @@
 import { useRoutes } from "react-router-dom";
 import About from "./page/About";
-import Contact from "./page/Contacts";
+import Contact from "./page/Contact";
 import Projects from "./page/Projects";
 import Skills from "./page/Skills";
 import "./styles/app.css";
@@ -16,3 +16,5 @@ const ProjectRoutes = () => {
 
 	return element;
 };
+
+export default ProjectRoutes;
