@@ -1,5 +1,11 @@
+import ProjectMenu from "../../components/ProjectMenu";
+
 function index() {
-	return <div>Projects</div>;
+	return (
+		<>
+			<ProjectMenu />
+		</>
+	);
 }
 
 export default index;

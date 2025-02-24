@@ -1,5 +1,11 @@
+import ContactMenu from "../../components/ContactMenu";
+
 function index() {
-	return <div>Contact</div>;
+	return (
+		<>
+			<ContactMenu />
+		</>
+	);
 }
 
 export default index;
