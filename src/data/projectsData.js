@@ -40,8 +40,8 @@ const projects = {
 			<>
 				A social media platform that helps users create better posts
 				with AI-powered summarization and HTTP Live Streaming (HLS).
-				Developed with Next.js for a seamless user experience and
-				real-time interactions.
+				Developed with Next.js, NestJS for a seamless user experience
+				and real-time interactions.
 			</>
 		),
 		github: "https://github.com/hungcqa23/instalite",
