@@ -1,0 +1,20 @@
+#contact {
+	width: 13rem;
+	height: 4rem;
+	position: fixed;
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+	justify-content: flex-end;
+	top: 2rem;
+	right: 3rem;
+}
+
+.social-icon {
+	width: 2rem;
+	height: 2rem;
+}
+
+.instagram {
+	scale: 110%;
+}
