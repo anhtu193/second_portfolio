@@ -5,9 +5,12 @@ const subHeadingData = {
 			content: (
 				<>
 					<p>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit.
-						Minus libero perferendis iste iusto officia magni
-						explicabo quos veniam, at officiis?
+						🚀I'm a final-year Software Engineering student
+						passionate about Front-end development. I love building
+						user-friendly and responsive interfaces that provide
+						seamless user experiences. <br /> <br />
+						🧑‍💻I'm always eager to learn new technologies and improve
+						my development skills.
 					</p>
 				</>
 			),
@@ -15,23 +18,24 @@ const subHeadingData = {
 	],
 	2: [
 		{
-			title: "Certificates",
-			content: (
-				<>
-					<p>
-						IELTS: 7.0 <br /> TOEIC: 820
-					</p>
-				</>
-			),
-		},
-		{
 			title: "University",
 			content: (
 				<>
 					<p>
 						University of Information Technology - VNUHCM
-						<br />
+						<br /> <br />
 						GPA: 8.1
+					</p>
+				</>
+			),
+		},
+		{
+			title: "Certificates",
+			content: (
+				<>
+					<p>
+						IELTS Academic: Overall 7.0 <br /> <br />
+						TOEIC (Listening & Reading): 820
 					</p>
 				</>
 			),

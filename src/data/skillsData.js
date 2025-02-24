@@ -9,10 +9,6 @@ const skills = {
 			level: 4,
 		},
 		{
-			title: "SASS/SCSS",
-			level: 2,
-		},
-		{
 			title: "JavaScript",
 			level: 4,
 		},
@@ -28,11 +24,11 @@ const skills = {
 		},
 		{
 			title: "Next.js",
-			level: 5,
+			level: 4,
 		},
 		{
 			title: "TailwindCSS",
-			level: 4,
+			level: 5,
 		},
 		{
 			title: "shadcn/ui",

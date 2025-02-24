@@ -46,7 +46,7 @@ export default class ProjectMenu extends Component {
 							DEMO
 						</a>
 					) : (
-						<div></div>
+						<></>
 					)}
 				</div>
 			</div>
@@ -55,7 +55,12 @@ export default class ProjectMenu extends Component {
 
 	render() {
 		const { activeProject } = this.state;
-		const projectItems = ["PROJECT 1", "PROJECT 2", "PROJECT 3"];
+		const projectItems = [
+			"PROJECT 1",
+			"PROJECT 2",
+			"PROJECT 3",
+			"PROJECT 4",
+		];
 		return (
 			<div className="project-menu">
 				<div className="project-items-container">
